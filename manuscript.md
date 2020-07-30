@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="JOSS 4 year paper" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="JOSS 4 year paper" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="JOSS 4 year paper" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="JOSS 4 year paper" />
 
   <meta name="dc.date" content="2020-07-30" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://openjournals.github.io/joss-year4-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/" />
+  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/9713767a6410eef39acce17820e91814f6616938/" />
 
-  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/" />
+  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/9713767a6410eef39acce17820e91814f6616938/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/9713767a6410eef39acce17820e91814f6616938/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: JOSS 4 year paper
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/))
+([permalink](https://openjournals.github.io/joss-year4-paper/v/9713767a6410eef39acce17820e91814f6616938/))
 was automatically generated
-from [openjournals/joss-year4-paper@91a5cb6](https://github.com/openjournals/joss-year4-paper/tree/91a5cb66a8863f3cfefbb6904b060c1c3469a802)
+from [openjournals/joss-year4-paper@9713767](https://github.com/openjournals/joss-year4-paper/tree/9713767a6410eef39acce17820e91814f6616938)
 on July 30, 2020.
 </em></small>
 
