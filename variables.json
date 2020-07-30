@@ -1,0 +1,90 @@
+{
+  "pandoc": {
+    "title": "Manuscript Title",
+    "keywords": [
+      "markdown",
+      "publishing",
+      "manubot"
+    ],
+    "lang": "en-US",
+    "date-meta": "2020-07-30",
+    "author-meta": [
+      "John Doe",
+      "Jane Roe"
+    ],
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-07-30\" />\n<meta name=\"citation_publication_date\" content=\"2020-07-30\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://openjournals.github.io/joss-year4-paper/\" />\n<meta property=\"og:url\" content=\"https://openjournals.github.io/joss-year4-paper/\" />\n<meta property=\"twitter:url\" content=\"https://openjournals.github.io/joss-year4-paper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://openjournals.github.io/joss-year4-paper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://openjournals.github.io/joss-year4-paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://openjournals.github.io/joss-year4-paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "bibliography": [
+      "content/manual-references.json"
+    ],
+    "manubot-output-bibliography": "output/references.json",
+    "manubot-output-citekeys": "output/citations.tsv",
+    "manubot-requests-cache-path": "ci/cache/requests-cache",
+    "manubot-clear-requests-cache": false
+  },
+  "manubot": {
+    "date": "July 30, 2020",
+    "authors": [
+      {
+        "github": "johndoe",
+        "name": "John Doe",
+        "initials": "JD",
+        "orcid": "XXXX-XXXX-XXXX-XXXX",
+        "twitter": "johndoe",
+        "email": "john.doe@something.com",
+        "affiliations": [
+          "Department of Something, University of Whatever"
+        ],
+        "funders": [
+          "Grant XXXXXXXX"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "github": "janeroe",
+        "name": "Jane Roe",
+        "initials": "JR",
+        "orcid": "XXXX-XXXX-XXXX-XXXX",
+        "email": "jane.roe@whatever.edu",
+        "affiliations": [
+          "Department of Something, University of Whatever",
+          "Department of Whatever, University of Something"
+        ],
+        "affiliation_numbers": [
+          1,
+          2
+        ]
+      }
+    ],
+    "affiliations": [
+      {
+        "affiliation": "Department of Something, University of Whatever",
+        "affiliation_number": 1
+      },
+      {
+        "affiliation": "Department of Whatever, University of Something",
+        "affiliation_number": 2
+      }
+    ],
+    "ci_source": {
+      "provider": "github",
+      "repo_slug": "openjournals/joss-year4-paper",
+      "repo_owner": "openjournals",
+      "repo_name": "joss-year4-paper",
+      "commit": "91a5cb66a8863f3cfefbb6904b060c1c3469a802",
+      "triggering_commit": "91a5cb66a8863f3cfefbb6904b060c1c3469a802",
+      "build_url": "https://github.com/openjournals/joss-year4-paper/commit/91a5cb66a8863f3cfefbb6904b060c1c3469a802/checks",
+      "job_url": "https://github.com/openjournals/joss-year4-paper/runs/run3"
+    },
+    "html_url": "https://openjournals.github.io/joss-year4-paper/",
+    "pdf_url": "https://openjournals.github.io/joss-year4-paper/manuscript.pdf",
+    "html_url_versioned": "https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/",
+    "pdf_url_versioned": "https://openjournals.github.io/joss-year4-paper/v/91a5cb66a8863f3cfefbb6904b060c1c3469a802/manuscript.pdf",
+    "manubot_version": "0.3.1",
+    "rootstock_commit": "0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc",
+    "manuscript_stats": {
+      "word_count": 1404
+    }
+  }
+}
