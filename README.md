@@ -1,3 +1,9 @@
+# JOSS Year 4 Paper
+
+Repo for JOSS year 4 paper
+
+License: [CC BY](https://creativecommons.org/licenses/by/4.0/)
+
 # Automated scholarly manuscripts on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
