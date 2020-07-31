@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://openjournals.github.io/joss-year4-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/" />
+  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/" />
 
-  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/" />
+  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: JOSS 4 year paper
 
 <small><em>
 This manuscript
-([permalink](https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/))
+([permalink](https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/))
 was automatically generated
-from [openjournals/joss-year4-paper@74a762b](https://github.com/openjournals/joss-year4-paper/tree/74a762b918aa0380905ffced13e69d73b15f7a1b)
+from [openjournals/joss-year4-paper@b068efb](https://github.com/openjournals/joss-year4-paper/tree/b068efbbed0c87cd48bcaa8687c3266098b96886)
 on July 31, 2020.
 </em></small>
 
@@ -449,9 +449,7 @@ useful for *warnings* - [manubot.org](https://manubot.org/)
 ### Topics
 
 ![
-
 **A world cloud generated from the topics provided by the devlopers on the corresponding GitHub repo of the publicaitons**
-
 ](https://raw.githubusercontent.com/openjournals/joss-year4-paper/master/content/images/topic_cloud.pdf "Topic cloud"){#fig:topic-cloud-image}
 
 
