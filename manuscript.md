@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://openjournals.github.io/joss-year4-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/407acc69b0c42dafd742b236baf3bd87a07ec4fa/" />
+  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/407acc69b0c42dafd742b236baf3bd87a07ec4fa/" />
+  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/407acc69b0c42dafd742b236baf3bd87a07ec4fa/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: JOSS 4 year paper
 
 <small><em>
 This manuscript
-([permalink](https://openjournals.github.io/joss-year4-paper/v/407acc69b0c42dafd742b236baf3bd87a07ec4fa/))
+([permalink](https://openjournals.github.io/joss-year4-paper/v/74a762b918aa0380905ffced13e69d73b15f7a1b/))
 was automatically generated
-from [openjournals/joss-year4-paper@407acc6](https://github.com/openjournals/joss-year4-paper/tree/407acc69b0c42dafd742b236baf3bd87a07ec4fa)
+from [openjournals/joss-year4-paper@74a762b](https://github.com/openjournals/joss-year4-paper/tree/74a762b918aa0380905ffced13e69d73b15f7a1b)
 on July 31, 2020.
 </em></small>
 
@@ -438,6 +438,26 @@ useful for *warnings* - [manubot.org](https://manubot.org/)
 
 
 # Intro
+
+# Methodology
+
+
+# Results
+
+## Analyzing the software on GitHub
+
+### Topics
+
+![
+
+**A world cloud generated from the topics provided by the devlopers on the corresponding GitHub repo of the publicaitons**
+
+](https://raw.githubusercontent.com/openjournals/joss-year4-paper/master/content/images/topic_cloud.pdf "Topic cloud"){#fig:topic-cloud-image}
+
+
+
+### Porgramming 
+
 
 ## References {.page_break_before}
 

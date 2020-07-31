@@ -11,6 +11,7 @@ consequat
 culpa
 cupidatat
 deserunt
+devlopers
 dolore
 Duis
 eiusmod
@@ -38,9 +39,12 @@ occaecat
 officia
 Pandoc’s
 pariatur
+Porgramming
 proident
+publicaitons
 qui
 quis
+repo
 reprehenderit
 sed
 sint

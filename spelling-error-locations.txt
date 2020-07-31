@@ -50,3 +50,7 @@ content/02.delete-me.md:47:sint
 content/02.delete-me.md:47:sunt
 content/02.delete-me.md:236:Pandoc's
 content/02.delete-me.md:246:Pandoc's
+content/05.results.md:9:devlopers
+content/05.results.md:9:publicaitons
+content/05.results.md:9:repo
+content/05.results.md:15:Porgramming
