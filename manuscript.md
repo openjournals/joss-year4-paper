@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-07-31'
+date-meta: '2020-08-01'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="JOSS 4 year paper" />
 
-  <meta name="dc.date" content="2020-07-31" />
+  <meta name="dc.date" content="2020-08-01" />
 
-  <meta name="citation_publication_date" content="2020-07-31" />
+  <meta name="citation_publication_date" content="2020-08-01" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://openjournals.github.io/joss-year4-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/" />
+  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/" />
+  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: JOSS 4 year paper
 
 <small><em>
 This manuscript
-([permalink](https://openjournals.github.io/joss-year4-paper/v/b068efbbed0c87cd48bcaa8687c3266098b96886/))
+([permalink](https://openjournals.github.io/joss-year4-paper/v/3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0/))
 was automatically generated
-from [openjournals/joss-year4-paper@b068efb](https://github.com/openjournals/joss-year4-paper/tree/b068efbbed0c87cd48bcaa8687c3266098b96886)
-on July 31, 2020.
+from [openjournals/joss-year4-paper@3e7e38f](https://github.com/openjournals/joss-year4-paper/tree/3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0)
+on August 1, 2020.
 </em></small>
 
 ## Authors
@@ -450,7 +450,7 @@ useful for *warnings* - [manubot.org](https://manubot.org/)
 
 ![
 **A world cloud generated from the topics provided by the devlopers on the corresponding GitHub repo of the publicaitons**
-](https://raw.githubusercontent.com/openjournals/joss-year4-paper/master/content/images/topic_cloud.pdf "Topic cloud"){#fig:topic-cloud-image}
+](https://github.com/openjournals/joss-year4-paper/raw/master/content/images/topic_cloud.pdf "Topic cloud"){#fig:topic-cloud-image}
 
 
 
