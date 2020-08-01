@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://openjournals.github.io/joss-year4-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/caf9e35bba9cd97e5296baed1e8a3f0a61c932ef/" />
+  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/" />
 
-  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/caf9e35bba9cd97e5296baed1e8a3f0a61c932ef/" />
+  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/caf9e35bba9cd97e5296baed1e8a3f0a61c932ef/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: JOSS 4 year paper
 
 <small><em>
 This manuscript
-([permalink](https://openjournals.github.io/joss-year4-paper/v/caf9e35bba9cd97e5296baed1e8a3f0a61c932ef/))
+([permalink](https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/))
 was automatically generated
-from [openjournals/joss-year4-paper@caf9e35](https://github.com/openjournals/joss-year4-paper/tree/caf9e35bba9cd97e5296baed1e8a3f0a61c932ef)
+from [openjournals/joss-year4-paper@689d3bb](https://github.com/openjournals/joss-year4-paper/tree/689d3bbd0d824833a56d6a42f7a4624873ded9f5)
 on August 1, 2020.
 </em></small>
 
@@ -450,7 +450,7 @@ useful for *warnings* - [manubot.org](https://manubot.org/)
 
 ![
 **A world cloud generated from the topics provided by the devlopers on the corresponding GitHub repo of the publicaitons**
-](images/topic_cloud.pdf "Topic cloud"){#fig:topic-cloud-image}
+](images/topic_cloud.svg "Topic cloud"){#fig:topic-cloud-image}
 
 
 
