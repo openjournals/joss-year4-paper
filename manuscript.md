@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://openjournals.github.io/joss-year4-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/" />
+  <link rel="alternate" type="text/html" href="https://openjournals.github.io/joss-year4-paper/v/69849353561f55d95f389451d57e86d211485b88/" />
 
-  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/" />
+  <meta name="manubot_html_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/69849353561f55d95f389451d57e86d211485b88/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://openjournals.github.io/joss-year4-paper/v/69849353561f55d95f389451d57e86d211485b88/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: JOSS 4 year paper
 
 <small><em>
 This manuscript
-([permalink](https://openjournals.github.io/joss-year4-paper/v/689d3bbd0d824833a56d6a42f7a4624873ded9f5/))
+([permalink](https://openjournals.github.io/joss-year4-paper/v/69849353561f55d95f389451d57e86d211485b88/))
 was automatically generated
-from [openjournals/joss-year4-paper@689d3bb](https://github.com/openjournals/joss-year4-paper/tree/689d3bbd0d824833a56d6a42f7a4624873ded9f5)
+from [openjournals/joss-year4-paper@6984935](https://github.com/openjournals/joss-year4-paper/tree/69849353561f55d95f389451d57e86d211485b88)
 on August 1, 2020.
 </em></small>
 
