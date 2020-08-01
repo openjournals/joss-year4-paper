@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/openjournals/joss-year4-paper/tree/gh-pages) branch hosts the contents of this directory at <https://openjournals.github.io/joss-year4-paper/>.
-The permalink for this webpage version is <https://openjournals.github.io/joss-year4-paper/v/3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0/>.
+The permalink for this webpage version is <https://openjournals.github.io/joss-year4-paper/v/f377caf7d21abeb11b29af2310a250f8fee7ea97/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://openjournals.github.io/joss-year4-paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0`](https://github.com/openjournals/joss-year4-paper/commit/3e7e38fd6f46c6b058e8b1e119c3f7fde78663d0).
+[`f377caf7d21abeb11b29af2310a250f8fee7ea97`](https://github.com/openjournals/joss-year4-paper/commit/f377caf7d21abeb11b29af2310a250f8fee7ea97).
